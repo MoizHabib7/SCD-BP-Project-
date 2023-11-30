@@ -1,0 +1,15 @@
+2-Product Search and Purchase:
+
+Description: This use case involves the process of users searching for products 
+and making purchases on the e-commerce website.
+Steps:
+
+->User enters a search query or selects a product category on the website.
+->The system retrieves relevant products based on the search query or selected category.
+->User browses through the product listings and selects a specific product.
+->User adds the product to their shopping cart and proceeds to checkout.
+->User provides shipping and billing information.
+->The system calculates the total cost, including taxes and shipping charges.
+->User selects a payment method and enters the necessary details.
+->The system processes the payment and generates an order confirmation.
+->User receives an order confirmation email or SMS.
