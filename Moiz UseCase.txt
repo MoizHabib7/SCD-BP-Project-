@@ -10,4 +10,4 @@ Steps:
 ->User receives a confirmation email or SMS with a verification link or code.
 ->User clicks on the verification link or enters the code to authenticate their account.
 ->it heps it to create account
-->
+->helps to track the account
