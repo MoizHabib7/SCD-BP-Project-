@@ -1,0 +1,13 @@
+1-USER REGISTERATION AND AUTHENTICATION 
+
+Description: This use case involves the process of users registering on the e-commerce website and 
+authenticating their identities.
+Steps:
+
+->User visits the website and clicks on the "Register" button.
+->User provides required information like name, email address, password, city, etc.
+->The system validates the provided information and generates a unique user ID.
+->User receives a confirmation email or SMS with a verification link or code.
+->User clicks on the verification link or enters the code to authenticate their account.
+->it heps it to create account
+->
